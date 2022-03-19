@@ -29,6 +29,5 @@
   <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intelliJIDEA&logoColor=white">
   <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webStorm&logoColor=white">
 </div>
-<div aligen=left>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erashape&show_icons=true&theme=radical)
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erashape&show_icons=true&theme=radical)

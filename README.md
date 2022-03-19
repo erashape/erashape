@@ -24,10 +24,12 @@
   <img src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=black">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <br>
   <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intelliJIDEA&logoColor=white">
   <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webStorm&logoColor=white">
+</div>
+<div align=left><h1>OS</h1></div>
+<div align=left>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 <br>
 
